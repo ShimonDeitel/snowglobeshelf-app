@@ -1,0 +1,29 @@
+{
+  "identifier": "snowglobeshelf",
+  "nonRenewingSubscriptions": [],
+  "products": [
+    {
+      "displayPrice": "3.99",
+      "familyShareable": false,
+      "internalID": "snowglobeshelf_pro",
+      "localizations": [
+        {
+          "description": "Unlimited globes and a travel-map view",
+          "displayName": "Snow Globe Shelf Pro",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "snowglobeshelf_pro",
+      "referenceName": "Snow Globe Shelf Pro",
+      "type": "NonConsumable"
+    }
+  ],
+  "settings": {
+    "_askToBuyEnabled": false
+  },
+  "subscriptionGroups": [],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
